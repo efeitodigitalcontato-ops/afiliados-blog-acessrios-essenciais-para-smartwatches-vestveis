@@ -1,0 +1,31 @@
+{
+  "theme": "acessórios essenciais para smartwatches & vestíveis",
+  "categories": [
+    {
+      "value": "acess-rios-essenciais-para-smartwatches-vest-veis",
+      "label": "Acessórios essenciais para smartwatches & vestíveis"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Acessórios essenciais para smartwatches & vestíveis"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-acess-rios-essenciais-para-smartwatches-vest-veis-1.jpg",
+      "label": "Acessórios essenciais para smartwatches & vestíveis Premium"
+    },
+    {
+      "value": "/recommended-acess-rios-essenciais-para-smartwatches-vest-veis-2.jpg",
+      "label": "Acessórios essenciais para smartwatches & vestíveis Custo-Benefício"
+    },
+    {
+      "value": "/recommended-acess-rios-essenciais-para-smartwatches-vest-veis-3.jpg",
+      "label": "Melhores Acessórios essenciais para smartwatches & vestíveis"
+    }
+  ]
+}
